@@ -80,6 +80,7 @@ header {
     padding: 25px 0;
 
     .branding {
+      font-size: 34px;
       display: flex;
       align-items: center;
 
