@@ -52,14 +52,7 @@ export default {
     twitter,
     instagram,
   },
-  computed: {
-    user() {
-      return this.$store.state.user;
-    },
-    admin() {
-      return this.$store.state.profileAdmin;
-    },
-  },
+  computed: {},
 };
 </script>
 
